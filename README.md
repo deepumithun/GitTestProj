@@ -1,0 +1,2 @@
+# GitTestProj
+Test GIT project
